@@ -67,7 +67,7 @@ SERVER:
 
 
 ![EX 3 SERVER](https://github.com/rajalakshmi8248/EX-3/assets/122860827/ec0e1dfb-8b80-436b-9b1f-298ca1e8fbaa)
-![EX5 T](https://github.com/rajalakshmi8248/EX-3/assets/122860827/92dbd40d-242f-48e0-a18a-4f27660e33b2)
+
 
 
 
